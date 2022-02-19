@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone" ,"weight":1000},{"model":"stone1","weight":1},{"model":"stone2","weight":1},
+            { "model": "stone_mirrored","weight":1000 },
+            { "model": "stone", "y": 180,"weight":1000 },
+            { "model": "stone_mirrored","weight":1000,"y": 180}
+        ]
+    }
+}
